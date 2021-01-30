@@ -71,4 +71,4 @@ real	0m0.076s
 user	0m0.053s
 sys	0m0.041s
 Perms Count
-cat outwl.txt | wc -l -> 3905 Of course are the same as the prevoius one
+cat outwl.txt | wc -l -> 3905 Of course are the same as before
